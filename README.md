@@ -11,3 +11,4 @@ This idea is to make a 3d accelerated server so to make me and my friends able t
 +Steam
 +Kodi
 +virgl
++or qemu?
